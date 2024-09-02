@@ -2,8 +2,6 @@
 
 PIC/Shellocde generation template.
 
-# How To
-
 ## [Generator](./PIC/Generator/)
 
 The generator folder is main focus of this project. It contains the helpers for creating PIC as well as a "Hello, World!" message box example.
