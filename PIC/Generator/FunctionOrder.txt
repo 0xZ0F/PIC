@@ -1,0 +1,4 @@
+PIC
+PIC_Strncmp
+GetHandleToKernel32
+FindExport
